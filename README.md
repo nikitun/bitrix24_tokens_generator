@@ -8,6 +8,7 @@
 - Client Id (client_id);
 - Login;
 - Password.
+
 Выходные данные:
 - client_tocken;
 - refresh_tockern.
